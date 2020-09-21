@@ -1,0 +1,19 @@
+:root {
+  --primary: #fff;
+  --bg0: #242424;
+  --btn-padding: 8px 20px;
+  --font-size: 20px;
+  --transition0: all 0.3s ease-out;
+  --percent-100: 100%;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
